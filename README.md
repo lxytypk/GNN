@@ -1,1 +1,3 @@
 # GNN
+* GCN
+* GAT
